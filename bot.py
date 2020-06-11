@@ -12,7 +12,7 @@ def start_game(message_):
 
 
 def show_result():
-    
+    pass
 
 
 @bot.message_handler(content_types=['text'])
