@@ -10,9 +10,7 @@ keyboard = ''
 
 def start_game(message_):
     """
-    Prepare the game for user:
-        1-st  ->  create keyboard with variants
-        2-nd  ->
+    Prepare the game for user
     """
 
     global is_gaming, keyboard
